@@ -1,0 +1,46 @@
+body{
+    color:black;
+     background-color:beige;
+     font-family:papyrus,fantasy;
+     font-size:1em ;
+ }
+ 
+ h1{
+     color:CadetBlue;
+     font-family:lucida handwriting,cursive ;
+     
+ }
+ 
+ h2{
+     color:chartreuse;
+ }
+ 
+ h3{
+     color:DarkRed;
+ }
+ 
+ h4{
+     color:MidnightBlue;
+ }
+ 
+ #CSS-declaration-subheading{
+    color:Teal;  
+ }
+ 
+ #CSS-property-value-heading{
+     color:SpringGreen;
+ }
+ 
+ .underline{
+     text-decoration: underline;
+ }
+ 
+ #take-note-nb{
+     font-style: italic;
+     font-size: 25px;
+ }
+ 
+ .bold{
+    font-weight: bold; 
+    font-size: 1.2em;
+ }
